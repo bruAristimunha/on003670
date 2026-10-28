@@ -25,7 +25,9 @@
     "Description": "Participants ethnicity",
     "Levels": {
       "Non": "Non-Hispanic/Latino",
-      "His": "Hispanic/Latino"
+      "His": "Hispanic/Latino",
+      "Hispanic/Latino": "Hispanic/Latino",
+      "Non-Hispanic/Latino": "Non-Hispanic/Latino"
     }
   },
   "Race": {
